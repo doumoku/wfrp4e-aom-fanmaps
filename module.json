@@ -1,0 +1,25 @@
+{
+  "name": "wfrp4e-ashesofmiddenheim-maps",
+  "title": "WFRP4E - Ashes of Middenheim fanmade maps/ミドンヘイムの灰燼　キャンペーン用マップ",
+  "description": " Ashes of Middenheim maps for WFRP system./ミドンヘイムの灰燼　キャンペーンのマップ集（呪われし道-第１章）です。",
+  "version": "1.0.0",
+  "author": "doumoku",
+  "styles": [],
+  "packs": [ 
+    {
+      "name": "aom-maps",
+      "label": "ミドンヘイムの灰燼 マップ",
+      "type": "Scene",
+      "path": "./packs/aom-maps.db",
+      "package": "wfrp4e-aom-maps"
+    }
+  ],
+  "url": "https://www.uberwald.me/gitea/public/wfrp4e-aom-fanmaps",
+  "manifest": "https://www.uberwald.me/gitea/public/wfrp4e-aom-fanmaps/raw/branch/master/module.json",
+  "download": "https://www.uberwald.me/gitea/public/wfrp4e-aom-fanmaps/archive/wfrp4e-fanmaps-aom-1.0.0.zip",
+  "id": "wfrp4e-aom-fanmaps",
+  "languages": [],
+  "minimumCoreVersion" : "0.6.0",
+  "compatibleCoreVersion": "10",
+  "manifestPlusVersion": "1.0.0"
+}
