@@ -14,10 +14,10 @@
       "package": "wfrp4e-aom-maps"
     }
   ],
-  "url": "https://www.uberwald.me/gitea/public/wfrp4e-aom-fanmaps",
-  "manifest": "https://www.uberwald.me/gitea/public/wfrp4e-aom-fanmaps/raw/branch/master/module.json",
-  "download": "https://www.uberwald.me/gitea/public/wfrp4e-aom-fanmaps/archive/wfrp4e-fanmaps-aom-1.0.0.zip",
-  "id": "wfrp4e-aom-fanmaps",
+    "url": "https://github.com/doumoku/wfrp4e-aom-fanmaps",
+    "manifest": "https://github.com/doumoku/wfrp4e-aom-fanmaps/releases/latest/download/module.json",
+    "download": "https://github.com/doumoku/wfrp4e-aom-fanmaps/releases/download/v1.0.0/module.zip",
+    "id": "wfrp4e-aom-fanmaps",
   "languages": [],
   "minimumCoreVersion" : "0.6.0",
   "compatibleCoreVersion": "10",
